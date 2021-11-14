@@ -1,15 +1,15 @@
 # Goodreads Dataset EDA
 
 ## Table of Contents
-1. [Project Motivation](1.-Project-Motivation-⇧)
-2. [Preliminaries](#2.-Preliminaries-⇧)
-3. [Basic Summary](#3.-Basic-Summary-⇧)
-4. [Exploratory Data Analysis](#4.-Exploratory-Data-Analysis-⇧)
-    1. [What is the best time to publish your book?](#4.1.-What-is-the-best-time-to-publish-your-book?-⇧)
-    2. [Which are the top 10 most rated books?](#4.2.-Which-are-the-top-10-most-rated-books?-⇧)
-    3. [Who are the top 10 highly rated authors?](#4.3.-Who-are-the-top-10-highly-rated-authors?-⇧)
-    4. [Does the number of pages associate with the average rating of the book?](#4.4.-Does-the-number-of-pages-associate-with-the-average-rating-of-the-book?-⇧)
-    5. [Which are the top 10 most published publishers?](#4.5.-Which-are-the-top-10-most-published-publishers?-⇧)
+1. [Project Motivation](1-Project-Motivation-)
+2. [Preliminaries](#2-Preliminaries-)
+3. [Basic Summary](#3-Basic-Summary-)
+4. [Exploratory Data Analysis](#4-Exploratory-Data-Analysis-)
+    1. [What is the best time to publish your book?](#41-What-is-the-best-time-to-publish-your-book?-)
+    2. [Which are the top 10 most rated books?](#42-Which-are-the-top-10-most-rated-books?-)
+    3. [Who are the top 10 highly rated authors?](#43-Who-are-the-top-10-highly-rated-authors?-)
+    4. [Does the number of pages associate with the average rating of the book?](#44-Does-the-number-of-pages-associate-with-the-average-rating-of-the-book?-)
+    5. [Which are the top 10 most published publishers?](#45-which-are-the-top-10-most-published-publishers-)
 
 ## 1. Project Motivation [⇧](#Table-of-Contents)
 Goodreads Dataset is an exciting dataset since it can help publishers understand current trends throughout the year to forecast and improve their sales. Consumers will be able to look for highly-rated books from others who are similar in habit to themselves. Last but not least, book authors can find the appropriate time of year to release a book or pitch it to publishers and agents.
