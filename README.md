@@ -1,7 +1,7 @@
 # Goodreads Dataset EDA
 
 ## Table of Contents
-1. [Project Motivation](1-Project-Motivation-)
+1. [Project Motivation](#1-project-motivation-)
 2. [Preliminaries](#2-Preliminaries-)
 3. [Basic Summary](#3-Basic-Summary-)
 4. [Exploratory Data Analysis](#4-Exploratory-Data-Analysis-)
@@ -13,10 +13,6 @@
 
 ## 1. Project Motivation [⇧](#Table-of-Contents)
 Goodreads Dataset is an exciting dataset since it can help publishers understand current trends throughout the year to forecast and improve their sales. Consumers will be able to look for highly-rated books from others who are similar in habit to themselves. Last but not least, book authors can find the appropriate time of year to release a book or pitch it to publishers and agents.
-
-These unique audiences can learn the following items about books they are searching:
-
-Q1. What time of year is the most popular for reading?
 
 ## 2. Preliminaries [⇧](#Table-of-Contents)
 
